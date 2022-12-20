@@ -1,0 +1,19 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "podman images",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spawn9859/Packages.git"
+  },
+  "author": "spawn9859",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spawn9859/Packages/issues"
+  },
+  "homepage": "https://github.com/spawn9859/Packages#readme"
+}
